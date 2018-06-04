@@ -1,8 +1,8 @@
 {
 	"description": "项目配置文件。",
 	"setting": {
-		"urlCheck": true,
-		"es6": false,
+		"urlCheck": false,
+		"es6": true,
 		"postcss": true,
 		"minified": true,
 		"newFeature": true
@@ -10,7 +10,7 @@
 	"miniprogramRoot": "./dist/",
 	"compileType": "miniprogram",
 	"appid": "wx13bed0ec3f3d312f",
-	"projectname": "mpvue-reader",
+	"projectname": "vue-reader",
 	"condition": {
 		"search": {
 			"current": -1,
